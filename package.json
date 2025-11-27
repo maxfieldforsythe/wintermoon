@@ -23,7 +23,7 @@
     "react-paypal-button-v2": "^2.6.2",
     "react-paypal-express-checkout": "git+https://github.com/quangogage/react-paypal-express-checkout.git",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-slideshow-image": "^2.0.2",
     "react-spring": "^8.0.27",
     "reactstrap": "^8.5.1",
